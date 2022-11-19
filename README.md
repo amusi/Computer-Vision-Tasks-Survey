@@ -72,7 +72,6 @@
 - Face Segmentation（人脸分割）
 - Face Super-Resolution / Hallucination （人脸超分辨率） 
 - Facial Motion Capture（面部运动捕捉）
-- - [「面部动作捕捉」是一项什么技术？主要应用于哪些场景？](https://www.zhihu.com/question/321811525)
 - Few-Shot Learning
   - Few-Shot Object Detection
   - Few-Shot Semantic Segmentation
@@ -167,7 +166,7 @@
 
 # N
 
-- Natural Language Video Localization（）
+- Natural Language Video Localization
 
 # O
 
@@ -232,7 +231,6 @@
 - Semantic manipulation
 - Semi-Supervised Learning 
   - Semi-Supervised Object Detection（半监督目标检测）
-    - 参考：https://arxiv.org/abs/2005.04757
   - Semi-Supervised Semantic Segmentation（半监督语义分割）
 - Sentiment Transfer（情感迁移）
   - 参考： https://arxiv.org/abs/2006.11337 和 https://arxiv.org/abs/2006.11989
@@ -348,4 +346,4 @@
 
 # 6D
 
-- 6D Object Pose Estimation（6D目标姿amusi
+- 6D Object Pose Estimation（6D目标姿态估计）
