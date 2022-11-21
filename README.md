@@ -270,6 +270,7 @@
 
 - Underwater Object Detector（水下目标检测）
 - Universal Adversarial Perturbations（通用对抗干扰）
+- Unsupervised Domain Adaptation（无监督域自适应）
 
 # V
 
@@ -288,6 +289,7 @@
 - Video Summarization（视频摘要）
 - Video Super-Resolution（视频超分辨率）
 - Video Story Question Answering（VSQA，视频故事问答）
+- Video Unsupervised Domain Adaptation（视频无监督域自适应）
 - View Synthesis（视图合成）
 - Visual Commonsense Reasoning（VCR，视觉常识推理）
 - Visual Grounding（视觉定位/落地）
