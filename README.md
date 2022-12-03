@@ -91,6 +91,7 @@
 - Homography Estimation（单应性估计）
 - Human Behavior Understanding（人体行为理解）
 - Human Fall Detection（人体跌倒检测）
+- Human Motion Prediction（人体运动预测）
 - Human Pose Estimation（人体姿态估计）
 - Human Pose Transfer
 - Human Parsing（人体解析）
