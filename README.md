@@ -139,6 +139,7 @@
 
 - Landmark Detection（关键点检测）
 - Lane Detection（车道线检测）
+- Lane Graph Estimation（车道图估计）
 - Layout Generation（布局生成）
 - Long-term Visual Tracking （长时视觉跟踪）
 - Low-Light Image Enhancement（低光照图像增强）
